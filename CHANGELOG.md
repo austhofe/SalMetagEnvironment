@@ -9,3 +9,4 @@
 ### Removed
 
 - Basic README.md template
+- unused images, logo and blank screenshot
